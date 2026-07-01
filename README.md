@@ -104,7 +104,7 @@ Examples include:
 
 ---
 
-# 📑 Dashboard Pages
+# Dashboard Pages
 
 ## Sales Performance Overview
 
